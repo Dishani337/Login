@@ -1,0 +1,14 @@
+/* .label{
+    padding-right: 100px;
+} */
+.login-button {
+    border-radius: 20px;
+    padding: 7px;
+    width: 93px;
+    align-items: righ;
+    margin-left: 93px;
+    margin-top: 10px;
+}
+.input{
+    margin-right: 50px;
+}
